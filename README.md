@@ -1,1 +1,1 @@
-# nathan.vieira-econ.github.io
+# nathanvieira-econ.github.io
