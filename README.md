@@ -1,6 +1,6 @@
 # Nathan Vieira Website
 
-*Link*: [https://nathanvieira38.github.io/Econ/](Website)
+*Link*: [Website](https://nathanvieira38.github.io/Econ/)
 
 I am a Ph.D candidate in Economics at Aix-Marseille School of Economics (Aix-Marseille University) in France, under the supervision of Bruno Decreuse.
 
